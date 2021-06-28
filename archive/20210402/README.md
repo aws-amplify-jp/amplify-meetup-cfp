@@ -1,13 +1,11 @@
-こんにちは！本レポジトリは 2021/7/30 (金)開催のAmplify Meetup(仮名) のCFP募集ページです！
+こんにちは！本レポジトリは 2021/4/2 (金)開催のAmplify Meetup #03 のCFP募集ページです！
 質問は[じゃが](https://twitter.com/jagaimogmog)までお気軽にどうぞ！
 
 ## イベント概要
 
- Amplify Meetup(仮名)は[AWS Amplify](https://aws.amazon.com/jp/amplify/) に興味のあるすべてのエンジニアのためのコミュニティイベントです。AWS Amplifyはセキュアでスケーラブルなモバイルアプリケーションとウェブアプリケーションを構築するための開発プラットフォームです。
- AWS Amplifyの知見を共有して、日本語の情報を増やしていきましょう！
- Amplify Japan User GroupではAWS Amplifyに関する情報交換と、AWS Amplifyの日本コミュニティの醸成を目的とし、様々なイベントを開催予定です。
+ Amplify Meetupは[AWS Amplify](https://aws.amazon.com/jp/amplify/) に興味のあるすべてのエンジニアのためのコミュニティイベントです。AWS Amplifyはセキュアでスケーラブルなモバイルアプリケーションとウェブアプリケーションを構築するための開発プラットフォームです。AWS Amplifyの知見を共有して、日本語の情報を増やしていきましょう！Amplify MeetupではAWS Amplifyに関する情報交換と、AWS Amplifyの日本コミュニティの醸成を目的とし、様々なイベントを開催予定です。
 
- 今回はAmplify ユーザーによるオンラインLT会を実施します。Amplifyを利用されているユーザーに、Amplifyの良さ、運用のコツ、工夫したところなどについてざっくばらんにLTしていただきます。Twitter ハッシュタグや[Sli.do](http://sli.do/)で募集した質問をモデレーターが登壇者に質問する形でのQ&Aもありますので、気軽にLT登壇者とコミュニケーションしてみてください。
+ 第3回は、Amplify ユーザーによるオンラインLT会を実施します。新たな試みとして、登壇者はCFPで公募させていただきます。Amplifyを本番環境で利用されているユーザーに、Amplifyの良さ、運用のコツ、工夫したところなどについてざっくばらんにLTしていただきます。Twitter ハッシュタグや[Sli.do](http://sli.do/)で募集した質問をモデレーターが登壇者に質問する形でのQ&Aもありますので、気軽にLT登壇者とコミュニケーションしてみてください。
 
 ## 発表内容のガイドライン
 
@@ -30,10 +28,10 @@
 
 ## スケジュール
 
-- 7/12 (月) CFP締め切り
-- 7/13 (火) 21:00 投票締め切り
-- 7/14 (水) 登壇者発表
-- 7/30 (金) Amplify Meetup(仮名) 本番
+- ~~3/5 (金)~~ 3/8(月) CFP締め切り (締め切りを延長しました！3/4追記)
+- 3/9 (火) 21:00 投票締め切り
+- 3/10 (水) 登壇者発表
+- 4/2 (金) Amplify Meetup #03 本番
 
 ## 注意事項
 
@@ -41,10 +39,8 @@
 - 発表の録画をYoutubeで公開させていただきます
 - 登壇時間は20分です。内訳は発表時間が15分、QAが5分です
 - 会中に回答しきれなかった質問は、後日回答をお願いし、ブログにて公開します
-- 運営との連絡手段としてTwitterを利用させていただくため、Twitter IDをご共有いただきます (Twitterを利用されていない場合はその旨ご連絡ください)
 
 ## 過去の発表例
 
 - [【全資料まとめ＆開催報告】Amplify Meetup #01 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-01/)
 - [【開催報告＆全資料まとめ＆QA公開】Amplify Meetup #02 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-02/)
-- [【開催報告＆全資料まとめ＆録画公開】Amplify Meetup #03 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-03/)
