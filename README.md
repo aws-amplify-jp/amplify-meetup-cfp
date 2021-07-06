@@ -1,9 +1,9 @@
-こんにちは！本レポジトリは 2021/7/30 (金)開催のAmplify Meetup(仮名) のCFP募集ページです！
+こんにちは！本レポジトリは 2021/7/30 (金)開催のAmplify Boost Up のCFP募集ページです！
 質問は[じゃが](https://twitter.com/jagaimogmog)までお気軽にどうぞ！
 
 ## イベント概要
 
- Amplify Meetup(仮名)は[AWS Amplify](https://aws.amazon.com/jp/amplify/) に興味のあるすべてのエンジニアのためのコミュニティイベントです。AWS Amplifyはセキュアでスケーラブルなモバイルアプリケーションとウェブアプリケーションを構築するための開発プラットフォームです。
+ Amplify Boost Upは[AWS Amplify](https://aws.amazon.com/jp/amplify/) に興味のあるすべてのエンジニアのためのコミュニティイベントです。AWS Amplifyはセキュアでスケーラブルなモバイルアプリケーションとウェブアプリケーションを構築するための開発プラットフォームです。
  AWS Amplifyの知見を共有して、日本語の情報を増やしていきましょう！
  Amplify Japan User GroupではAWS Amplifyに関する情報交換と、AWS Amplifyの日本コミュニティの醸成を目的とし、様々なイベントを開催予定です。
 
@@ -33,7 +33,7 @@
 - 7/12 (月) CFP締め切り
 - 7/13 (火) 21:00 投票締め切り
 - 7/14 (水) 登壇者発表
-- 7/30 (金) Amplify Meetup(仮名) 本番
+- 7/30 (金) Amplify Boost Up 本番
 
 ## 注意事項
 
