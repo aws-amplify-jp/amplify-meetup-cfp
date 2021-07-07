@@ -1,5 +1,5 @@
 こんにちは！本レポジトリは 2021/7/30 (金)開催のAmplify Boost Up のCFP募集ページです！
-質問は[じゃが](https://twitter.com/jagaimogmog)までお気軽にどうぞ！
+質問は amplify-japan-user-group[at]googlegroups.com までお気軽にどうぞ！
 
 ## イベント概要
 
