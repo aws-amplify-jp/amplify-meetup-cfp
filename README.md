@@ -49,3 +49,4 @@
 - [【全資料まとめ＆開催報告】Amplify Meetup #01 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-01/)
 - [【開催報告＆全資料まとめ＆QA公開】Amplify Meetup #02 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-02/)
 - [【開催報告＆全資料まとめ＆録画公開】Amplify Meetup #03 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-03/)
+- [Amplify Boost Up #01](https://aws-amplify-jp.github.io/reports/20210730-amplify-boost-up-01/)
