@@ -1,4 +1,4 @@
-こんにちは！本レポジトリは 2023/7/26 (水)開催のAmplify Boost Up のCFP募集ページです！
+こんにちは！本レポジトリは 2023/3/17 (金)開催のAmplify Boost Up のCFP募集ページです！
 質問は amplify-japan-user-group[at]googlegroups.com までお気軽にどうぞ！
 
 ## イベント概要
@@ -7,7 +7,7 @@
  AWS Amplifyの知見を共有して、日本語の情報を増やしていきましょう！
  Amplify Japan User GroupではAWS Amplifyに関する情報交換と、AWS Amplifyの日本コミュニティの醸成を目的とし、様々なイベントを開催予定です。
 
- 今回はAmplify ユーザーによるオンラインLT会を実施します。Amplifyを利用されているユーザーに、Amplifyの良さ、運用のコツ、工夫したところなどについてざっくばらんにLTしていただきます。Twitter ハッシュタグで募集した質問をモデレーターが登壇者に質問する形でのQ&Aもありますので、気軽にLT登壇者とコミュニケーションしてみてください。
+ 今回はAmplify ユーザーによるオンラインLT会を実施します。Amplifyを利用されているユーザーに、Amplifyの良さ、運用のコツ、工夫したところなどについてざっくばらんにLTしていただきます。Twitter ハッシュタグや[Sli.do](http://sli.do/)で募集した質問をモデレーターが登壇者に質問する形でのQ&Aもありますので、気軽にLT登壇者とコミュニケーションしてみてください。
 
 ## 発表内容のガイドライン
 
@@ -30,10 +30,10 @@
 
 ## スケジュール
 
-- 7/14 (金) CFP締め切り
-- 7/17 (月) 21:00 投票締め切り
-- 7/18 (火) 登壇者発表
-- 7/26 (水) Amplify Boost Up 本番
+- 3/3 (金) CFP締め切り
+- 3/6 (月) 21:00 投票締め切り
+- 3/7 (火) 登壇者発表
+- 3/17 (金) Amplify Boost Up 本番
 
 ## 注意事項
 
@@ -50,4 +50,3 @@
 - [【開催報告＆全資料まとめ＆QA公開】Amplify Meetup #02 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-02/)
 - [【開催報告＆全資料まとめ＆録画公開】Amplify Meetup #03 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-03/)
 - [Amplify Boost Up #01](https://aws-amplify-jp.github.io/reports/20210730-amplify-boost-up-01/)
-- [Amplify Boost Up #02](https://aws-amplify-jp.connpass.com/event/273121/)
