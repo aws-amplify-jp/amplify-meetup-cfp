@@ -1,4 +1,4 @@
-こんにちは！本レポジトリは2023/12/14(木)開催のAmplify Boost Up のCFP募集ページです！
+こんにちは！本レポジトリは 2023/7/26 (水)開催のAmplify Boost Up のCFP募集ページです！
 質問は amplify-japan-user-group[at]googlegroups.com までお気軽にどうぞ！
 
 ## イベント概要
@@ -30,10 +30,10 @@
 
 ## スケジュール
 
-- 12/1(金) CFP締め切り
-- 12/5(火) 21:00 投票締め切り
-- 12/6(水) 登壇者発表
-- 12/14(木) Amplify Boost Up 本番
+- 7/14 (金) CFP締め切り
+- 7/17 (月) 21:00 投票締め切り
+- 7/18 (火) 登壇者発表
+- 7/26 (水) Amplify Boost Up 本番
 
 ## 注意事項
 
@@ -51,5 +51,3 @@
 - [【開催報告＆全資料まとめ＆録画公開】Amplify Meetup #03 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amplify-meetup-03/)
 - [Amplify Boost Up #01](https://aws-amplify-jp.github.io/reports/20210730-amplify-boost-up-01/)
 - [Amplify Boost Up #02](https://aws-amplify-jp.connpass.com/event/273121/)
-- [Amplify Boost Up #03](https://aws-amplify-jp.connpass.com/event/284533/)
-- [AWSカーニバル](https://aws-amplify-jp.connpass.com/event/296406/)
