@@ -1,7 +1,5 @@
-こんにちは！本レポジトリは2024/4/30(火)開催「Amplify Boost Up #5」のCFP募集ページです！
-質問はDiscordで運営までお気軽にどうぞ！
-
-Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
+こんにちは！本レポジトリは2023/12/14(木)開催のAmplify Boost Up のCFP募集ページです！
+質問は amplify-japan-user-group[at]googlegroups.com までお気軽にどうぞ！
 
 ## イベント概要
 
@@ -9,11 +7,12 @@ Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
  AWS Amplifyの知見を共有して、日本語の情報を増やしていきましょう！
  Amplify Japan User GroupではAWS Amplifyに関する情報交換と、AWS Amplifyの日本コミュニティの醸成を目的とし、様々なイベントを開催予定です。
 
-今回は、AmplifyユーザーによるLT会を実施します。Amplifyを本番環境で利用されているユーザーや、Amplifyの良さ、運用のコツ、工夫したところ、Amplifyで開発する際に必要となる周辺技術の知見など、ざっくばらんにLTしていただきます。当日は、登壇者への質疑の時間も設けますので、参加者のみなさんも是非登壇者への質問という形でもコミュニティ活動へ積極的にご参加ください。
+今回は、AmplifyユーザーによるLT会を実施します。Amplifyを本番環境で利用されているユーザーや、Amplifyの良さ、運用のコツ、工夫したところなどについてざっくばらんにLTしていただきます。当日は、登壇者への質疑の時間も設けますので、参加者のみなさんも是非登壇者への質問という形でもコミュニティ活動へ積極的にご参加ください。
 
 ## 発表内容のガイドライン
 
-- AWS AmplifyもしくはAmplify開発に役立つ周辺知識に関する発表内容であること
+- AWS Amplifyに関する発表内容であること
+- 本番環境での事例、あるいは本番環境での運用から得られたTipsに関する発表であること
 - [CoC](https://d1.awsstatic.com/legal/communitycodesofconduct/AWS_Code_of_Conduct_Japanese%2010-21-2020_.pdf)に反しない発表であること
 - 登壇発表中に採用募集をかけていただくのはウェルカムです！ [who-use-amplify-in-japan](https://github.com/aws-amplify-jp/who-use-amplify-in-japan) もあわせてご利用ください
 
@@ -24,22 +23,26 @@ Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
 
 ## 選考基準
 
-ガイドラインの適用状況に加え、当日のプログラムの時間配分を考慮し、運営で選定します。
-希望者多数の場合は、次回開催時での登壇をお願いする場合もありますので、ご了承ください。
+下記2点を参考に運営より選考させて頂きます
+
+- 応募用Issueについた :+1: リアクション(投票)の数 
+- ガイドラインを満たしていること
 
 ## スケジュール
 
-- 3/31 (日) CFP締め切り
-- 4/1 (月) 登壇者確定
-- 4/30 (火) Amplify Boost Up
+- 12/1(金) CFP締め切り
+- 12/5(火) 21:00 投票締め切り
+- 12/6(水) 登壇者発表
+- 12/14(木) Amplify Boost Up 本番
 
 ## 注意事項
 
 - 発表資料は公開していただきます (自前での資料のホスティングが難しい場合は、ご相談ください)
-- 発表の録画をYouTubeで公開いたします (アーカイブ公開前の動画チェックをご希望の場合は対応可能です)
-- 基本の登壇時間は15分です。内訳は発表時間が10分、QAが5分です。なお、登壇時間の調整も可能なので、お気軽にご相談ください。
-- 当日の都合がつかない場合、事前録画したものでの登壇も可能です。なお、その場合でもQAはリアルタイムに回答していただきます。
-- 運営との連絡手段にはDiscordを利用するため、[Amplify Japan User Groupの公式Discord](https://discord.gg/YBnmq6y3fW)にご参加いただきます。
+- 発表の録画をYouTubeで公開させていただきます (アーカイブ公開前に動画のチェックは可能です)
+- 登壇時間は15分です。内訳は発表時間が10分、QAが5分です。なお、登壇時間の調整も可能なので、お気軽にご相談ください。
+- 登壇は事前録画したものでも可能です。なお、その場合でもQAはリアルタイムに回答していただきます
+- 会中に回答しきれなかった質問は、後日回答をお願いし、ブログにて公開します
+- 運営との連絡手段としてDiscordを利用させていただくため、[Amplify Japan User Groupの公式Discord](https://discord.gg/YBnmq6y3fW)にご参加お願いします！
 
 ## 過去の発表例
 
@@ -50,4 +53,3 @@ Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
 - [Amplify Boost Up #02](https://aws-amplify-jp.connpass.com/event/273121/)
 - [Amplify Boost Up #03](https://aws-amplify-jp.connpass.com/event/284533/)
 - [AWSカーニバル](https://aws-amplify-jp.connpass.com/event/296406/)
-- [Amplify Boost Up #04](https://aws-amplify-jp.connpass.com/event/300944/)
