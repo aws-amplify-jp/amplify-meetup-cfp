@@ -1,4 +1,4 @@
-こんにちは！本レポジトリは2024/12/19(木)開催「Amplify Boost Up #7」のCFP募集ページです！
+こんにちは！本レポジトリは2024/7/31(水)開催「Amplify Boost Up #6」のCFP募集ページです！
 質問はDiscordで運営までお気軽にどうぞ！
 
 Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
@@ -29,8 +29,9 @@ Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
 
 ## スケジュール
 
-- 11/18 (月) CFP締め切り・登壇者確定
-- 12/19 (木) Amplify Boost Up
+- 6/30 (日) CFP締め切り
+- 7/1 (月) 登壇者確定
+- 7/31 (水) Amplify Boost Up
 
 ## 注意事項
 
@@ -51,4 +52,3 @@ Discordの参加は [こちらから](https://discord.gg/YBnmq6y3fW)
 - [AWSカーニバル](https://aws-amplify-jp.connpass.com/event/296406/)
 - [Amplify Boost Up #04](https://aws-amplify-jp.connpass.com/event/300944/)
 - [Amplify Boost Up #05](https://aws-amplify-jp.connpass.com/event/312975/)
-- [Amplify Boost Up #06](https://aws-amplify-jp.connpass.com/event/321534/)
